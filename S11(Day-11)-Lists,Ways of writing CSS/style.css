@@ -1,0 +1,34 @@
+ul li{
+    /* list-style-type: square; */
+    /* list-style-type: circle; */
+    /* list-style-type: disc; */
+    /* list-style-type: none; */
+    list-style-image: url(./images/smallbullet.png); 
+}    
+
+/* ul li::marker{
+    content:"🦸‍♂️"
+}    */
+
+/* 
+ol li::marker{
+    content:"🦸"
+} */
+
+dt{
+    color: purple;
+}
+
+dd{
+    color: darkgreen;
+}
+
+body{
+    background-color: lightblue;
+}
+
+img{
+    width: 350px;
+    background-color: brown;
+    border-radius: 30px;
+}
